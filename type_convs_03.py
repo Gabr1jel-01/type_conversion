@@ -11,3 +11,4 @@ print(chr(126))
 print(ord("A"))
 
 
+print(chr(8364))
